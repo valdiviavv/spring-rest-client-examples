@@ -1,4 +1,4 @@
-package guru.springframework.springrestclientexamples.controllers;
+package guru.springframework.api.controllers;
 
 import guru.springframework.api.domain.User;
 import guru.springframework.api.repositories.UserRepository;
